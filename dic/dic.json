@@ -1,0 +1,21 @@
+{
+    "_SOBRE_ESTE_DICIONARIO_": [
+        {
+            "_Licença_": "MIT License - < https://opensource.org/licenses/MIT >",
+            "_Copyright_": "Copyright (c) 2019 Viniciusalopes Tecnologia ",
+            "_Autor_": "Vovolinux <suporte@viniciusalopes.com.br>", 
+            "_Data_": "2019-08-10",
+            "_Exemplo_de_estrutura_": "Logo abaixo, belesma?"
+        }
+    ],
+    "/site/pagina.php": [
+        {
+            "pt-br": "texto_pt_br_1",
+            "en": "texto_en_1"
+        },
+        {
+            "pt-br": "texto_pt_br_2",
+            "en": "texto_en_2"
+        }
+    ]
+}
